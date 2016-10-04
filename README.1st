@@ -4,9 +4,10 @@ beta 1
 
 Stage 1, beta 1, is mostly about edgucation, assesment of avalible resorces, and the establishment of norms.  There is very little actal game.  I felt that some members of the comunity might have some intrest in it, just to see what other are working on.  Please be aware that the code is not currently suited for external veiwership.
 
-Install the game by extracting the LtHoW.zip someware.  Download Blender3d at "https://www.blender.org/download/".  Open the testIni.blend file in Blender.  Click "Run in External Player".  Designed and tested in Blender 2.77a; Linix.  Has not been tested in other enviroments.
+Install the game by extracting the LtHoW.zip someware.  Download Blender3d at "https://www.blender.org/download/".  Open the testIni.blend file in Blender.  Click "Run in External Player".  Designed and tested in Blender 2.77a; Linix32.  Has not been tested in other enviroments.
 
-Win the game by capturing all Terminals.  Lose the game if your enemy dose so first.
+Capture termainals by moving allys on top of them.  Win the game by capturing all Terminals.  Lose the game if your enemy dose so first.
+
 On the right is terrain info and the time tell the next drop.
 On the left is the map and the pause timer.
 
