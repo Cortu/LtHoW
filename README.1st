@@ -1,4 +1,29 @@
-# LtHoW
+LtHoW
+stage 1
+beta 1
 
+Stage 1, beta 1, is mostly about edgucation, assesment of avalible resorces, and the establishment of norms.  There is very little actal game.  I felt that some members of the comunity might have some intrest in it, just to see what other are working on.  Please be aware that the code is not currently suited for external veiwership.
 
-test
+Install the game by extracting the .zip someware.  Download Blender.  Open the .blend file in Blender.  Click "Run in External Player".  Designed and tested in Blender 2.77a; Linix.  Has not been tested in other enviroments.
+
+Win the game by capturing all Terminals.  Lose the game if your enemy dose so first.
+On the right is terrain info and the time tell the next drop.
+On the left is the map and the pause timer.
+
+All keybinds can be changed in stuff/system/settings.ini.
+i - open info window
+leftClick on a terminal - set wich ally will drop on that terminals drop pad
+q - rotate camera counter clockwise
+e - rotate camera clockwise
+wasd - pan camera
+z on ally - select ally
+c - set the move flag; the current ally will move to the location of the flag
+r - set the attack flag; the current ally will attack the enemy that is closest to the flag and within range
+f - set both flags; the normal way of moving an ally
+
+deBug commands
+If you use these then your cheating.
+p - pause the game
+k - kill the target
+1 - add an ally
+2 - add an enemy
