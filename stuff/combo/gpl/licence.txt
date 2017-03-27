@@ -1,0 +1,3 @@
+Frets on Fire is licenced GNU General Public License
+Hedgewars is free open-source software, released under GPL-v2 license.
+Krita is a free software distributed under GNU General Public License version 2 and above.

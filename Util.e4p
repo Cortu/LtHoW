@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric5 project file for project Util -->
+<!-- Saved: 2017-03-18, 18:38:33 -->
+<!-- Copyright (C) 2017 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>dd5b85bf66c689a122c31421e79eedb5e8683c62</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>Other</ProjectType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="-1"/>
+  <Sources>
+    <Source>util/__init__.py</Source>
+    <Source>util/util_stuff.py</Source>
+    <Source>util/util_classes.py</Source>
+    <Source>util/lib_MIDI.py</Source>
+    <Source>util/util_main.py</Source>
+    <Source>util/util_tools.py</Source>
+    <Source>util/util_actions.py</Source>
+    <Source>util/util_methods.py</Source>
+    <Source>util/util_widgets.py</Source>
+    <Source>contMeth.py</Source>
+    <Source>util/util_gm.py</Source>
+  </Sources>
+  <Forms/>
+  <Translations/>
+  <Resources/>
+  <Interfaces/>
+  <Others>
+    <Other>stuff</Other>
+  </Others>
+  <MainScript>util/__init__.py</MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.ini" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+  </FiletypeAssociations>
+</Project>
