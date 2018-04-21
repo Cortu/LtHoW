@@ -1,0 +1,746 @@
+﻿Colligo 
+
+
+
+---On the Races of Colligo---
+
+--Elf--
+Elfs are medium sized mammalian humanoids.  They are slightly shorter then Humans and more lithe.  Elfs tend to display low physical gender dimorphism.  They have large, erectly pointed ears.  They are known for there fine motor dexterity and good hearing.  Elfs on Colligo can be of two differing hair colors, either blue black, or red blond.  Hair color is determined at birth, randomly selected from both parents.  There are no obvious secondary traits associated with Elfen hair color.  Average Elf life spans are significantly longer then Humans.
+
+
+--Dwarf--
+Dwarfs are small mammalian humanoids.  All tho significantly shorter then Humans, they are comparatively stockier.  They tend to have strongly pronounced facial features.  Dwarfs have adapted to life in under ground caves and tunnels.  There food was traditionally low quality and there hygiene was poor.  Even if contemporary Dwarfs maintain other life stiles, they retain pore eye sight and resistance to disease.  Average Dwarf life spans are significantly longer then Humans.
+
+
+--Rakasha--
+Rakasha are medium sized mammalian humanoids with for arms.  They have small pointed horns that sprout from the top of there head.  Individual horn patterns can be quite different from each other, even amongst family members.  There skin color is similar to humans in range, but tends to have a slightly dusty gray tinge.  Rakasha have a vestigial lattice of guanine crystals in there skin that once allowed for excellent adaptive camouflage.  All tho this ability has been lost, it is believed by some that, with proper training, a Rakasha can gain limited conscious control over there skin color.
+
+
+--Tengu--
+Tengu are medium sized bipedal humanoid avians.  There features are predominantly avian, such as a beak, feathers and wings, but there stature is humanoid, consisting of arms and legs.  There wings are partially vestigial.  They can glide, but not fly.  In addition, they use there wings for balance and bodily orientation.
+
+
+--Sauran--
+Saurans are a broad group of bipedal humanoid reptiles.  All Saurans have tough scaly skin, large tails, and the ability to hear subsonic sounds.  Saurans are mesothermic and tend to have low manual dexterity.
+
+-Olor-
+Olor are medium sized Saurans, with an elongated snout, and a horn protruding along the back of there head.  By speaking thru this horn, they can project there voice over long distances.
+
+-Ankyl-
+Ankyl are large sized Saurans.  They have heavy shells over there back and an armored tail.
+
+-Dromae-
+Dromae are small sized Saurans, with an elongated rounded, snout.  They have sharp claws, and teeth.
+
+
+--Ocelotl--
+Ocelotl are medium sized bipedal humanoid jaguars.  Ocelotl skin is generally spotted or deep black.  They are know for excellent stealth, balance, and climbing.
+
+--Orc--
+Orcs are medium sized mammalian humanoids.  Orcs have large, elongated canines, and thick dark hair.  The prenatal nutrition of the mother has a large impact on an Orcs physical development thru out there life.  If the Orcs mother is poorly nourished the child will develop red skin, and a thin, emaciated build.  If the mother is well nourished the child develops green skin, and a large, heavy build.  These characteristic allows Orc populations to flourish during times of feast, but still survive during times of famine.
+
+
+--Goren--
+Goren are a diverse group of large mammalian humanoids.  Goren individuals exhibit a wide range of traits.  Goren children may develop traits that differ considerably, even from there immediate family.  Some, but not all, Goren races harbor a deep intrinsic distrust of other Goren that have different characteristics compared to there own.  Whether a particular individual acts on these instincts, or whether a Goren society permits following these instincts, depends on the individual or society.
+
+-Janin
+Janin are Goren that resemble humans in every way except there bigger, stronger, and smarter. The Janin phenotype is particularity difficult to maintain.  If breading is not practiced, then the population will almost certainly revert to a more versatile race.
+
+-Cyclopes
+Cyclopes are Goren know for having only one large eye.  This eye is typically unusually acute.
+
+-Troll
+If Goren races do not practice breading, they will, almost certainly, revert to a hybrid race know as Trolls.  Trolls are very robust, with the ability to heal missing limbs.  Trolls often exhibit a diverse range of individual traits.  As such, it is difficult to describe the extent of the Troll race in detail.
+
+
+--Ghoben--
+Ghobens are small mammalian humanoids.  They have large eyes, ears, nose, hands and feet.  There bodes, arms and legs are generally small and thin.  Ghoben skin tends to be a dark saturated green, or light translucent pink.  There hair comes in a wild range of colors.  Dark skinned Ghobens have more saturated hair, while the lighter skinned one have paler hair.  Ghoben coloration tends to be a blend, rather then a choice, between parents.  The extent of the mixing depends partially on the individual Ghoben.  Goben are known for acute scenes and a substantial capacity for complex thought.  There are no obvious secondary traits associated with Ghoben coloration.
+
+
+
+---On the Procession of Colligo---
+
+--Stone age--
+
+The DarkElfs warship the moon while the BrightElfs worship the sun.  The DarkElfs start learning magic and studding nature.  They use there knowledge of astronomy to predict a solar eclipse, which angers the LightElfs.  The LightElf tribes band together and push the DarkElfs on to Taarala and to Ghoben controlled Phigije.  This promotes a racial self image of BrightElfs being stewards of the land.  The DarkElf in Phigije enslave the local Ghoben population and study farming.
+
+The Dwarfs live in squalid tunnels under neath the Aukts Mountains.  They begin cultivating under ground mushrooms and learn how to ferment them into beer.
+
+The Rakasha accept Ghoben refugees fleeing the DarkElfs.  The Ghobens teach the Rakasha DarkElf farming techniques.
+
+The Tengu and Ocelotl hunt neighboring community for food.
+
+The Surans begin raising live stock.
+
+Nomadic Orcs hunt the game in Koljer.
+
+The differing strains of Goren fight amongst themselves.
+
+The Humans establish fishing villages on the coast of Alyialos.
+
+
+
+--Bronze Age-- 
+
+The Dwarfs develop a complex pantheon dictating a strict code of laws.  All Dwarfs, including kings, are expected to submit themselves to the religious courts.  This reduces intraspecific conflict, and dwarfs begin seeing themselves as a single nation.
+
+Rakasha begin studying astrology in order to predict when the Twaxwa river will flood.  They make heavy use of irrigation to fill there cites with gardens and orchards.
+
+The Suarans use boats to trade with the DarkElf, Rakasha, and Humans.  They often set up small colony in the areas where they trade.  DarkElfs sell there Ghoben slaves thru Sauran traders, spreading Ghobens across Colligo.
+
+
+The Ocelotl establish live sacrifice as a main part of there religion.  Theses sacrifices are given to there priests, allowing a strong tradition of intellectual specialization.  The commoners are typically hunters and warriors however, resulting in few specialized artisans.
+
+
+The Orcs learn to domesticate some of the large herbivores in Koljer.  They learn riding, allowing them to hunt and follow the herds.  Orc populations boom resulting in both intraspecific conflict as well as conflict with Tengu, Humans, and Ocelotl.
+
+The Goran do not usually fight against there own kin. As consistent breeds begin to develop, the concept of family becomes extended to the entire breed.  These eugenic polices result in three main Gorn phenotypes, Janin, Cyclopse, and Troll.  Fighting amongst the Goren breeds is constant.
+
+The scattered Ghoben diaspora establish a syncretic soft polytheism, were all the gods are different aspects of the Ghoben god.  This concept spreads amongst there masters, but with each practitioners own god as the primary one.
+
+Humans are exposed to the concept of farming thru trade and Ghoben slaves.
+
+The Tengu do not eat each other and there fore generally do not raid each other.  Most Tengu intraspecific conflicts are over protecting there hunting grounds.
+
+
+
+--Iron Age --
+
+The general peace between Tengu tribes allows them to focus on other races.
+
+The Ocelotl particularity enjoy hunting Tengu.  This results in a strong military action against the Ocelotl.  After a long and difficult conflict, the Tengu successfully destroy the Ocelotl priesthood.  The Ocelotl accept the Tengus as there new masters, and support them militarily.
+
+The Orcs are one of the first to fight the Tengu Ocelotl combined forces, due to old conflicts with the Ocelotl.  Altho there are a large number of Orcs, they are disorganized, and gradually whittled down.  Like the Ocelotl, many conquered Orc tribes willingly join the emperial army.
+
+Tengu have difficulty fighting in cramped Dwarfen tunnels, while Ocelotl find mountain logistics difficult.  The Tengu Ocelotl combined military forces however are able to ferret the Dwarfs out of there caves.  The Dwarfs flee to the uninhabited forest of Aklipts, abandoning Aukts.  The logistical difficulty of Aukts and Xama, combined with the heavy fortifications of the Dwarfs new home, prove to be to much for the empire.  Not only do the Aklipts Dwarfs survive, they learn about overground living and farming.
+
+The Rakasha are preyed on by the empire so heavily, that little of there culture survives.
+
+The DarkElfs in Phigije are hunted almost to extinction.  Many DarkElfs, with there Ghoben slaves, flee to Taarala.  The citizens of Taarala help with the Tengu conflict in Phigije.  This leads to a stronger sense of DarkElfen racial unity.
+
+The Saurans are late to be conquered by the Tengu and do not fight it heavily. The Sauran merchants use the peace provided by the empire to further spread there trade networks, and establish additional international settlements.
+
+The Humans are some of the last to be conquered , and give up easily.  The empire chooses kings to rule over Alyialos.  Alyialos is not heavily hit by the war, and use the peace to build up there infrastructure.  They trade there economic surpluses to the many communities devastated by the war.
+
+The Ghobens trade one master for another.  The emperial peace allows the Ghoben diaspora to reconnect with one another, often thru writing.  They learn about the differences in thought and myth thru out Colligo.  Ghoben philosophy becomes more abstract and they become known for wisdom and narration, but are still treated as slaves.
+
+The Tengu build colonies across Colligo.  Tengu cites can be found in nearly every mountain and high place.  This is not a true empire, but rather a league. Each Tengu city state is predominantly autonomous, borders are established thru tradition and there is little effort for one city to conquer another.
+
+The Goren races try to exterminate each other, but the Janin are clearly superior.  Altho they lack the raw physicality of other Goren races, they more then make up for this with superior technology and organization.  The Cyclopes are driven to islands, while the Trolls flee to Alyialos and Auklipts.  The Troll refuges maintain differing levels of integration.  In particular, many engage in raiding, heavy labor, and military service.
+
+
+
+--Medieval Age--
+
+The Tengu were never able to subjugate the Dwarfs in Auklipts.  A long series of ineffective wars resulted in a weak and demoralized Tengu army.  When the Ocelotl saw there Tengu allies struggling with the Dwarfen war, they attacked them, killed there leadership, and ended the empire.
+
+When the empire was destroyed, its far flung colones were separated, and at the whim of the nations they once controlled.  Some of the Tengu ruled hard, including predating there subjects.  Others adopted the culture of the people they were near, farming and living in peace.  Many Tengu communities were allowed to remain, many fought off attempt to exterminate them, still others were destroyed or abandoned.  Tengu have communities in the lofty places thru out Colligo.  These cites are often located in areas other species find difficult to build in.  The peaceful ones are known for terrace farming, the aggressive ones for hunting and predation.  The way Tengu communities interact with the people around them is diverse and changes over time.
+
+The Ocelotl are now hunting every one with no real effort to conquer territory.
+
+With the empire destroyed, the Dwarfs have resettled Aukts.  The Dwarfs have not forgotten what they learned in Auklipts tho, and have established both heavily fortified underground cites as well as farming community in the foot hills.  The long warfare with the Tengu has left the Dwarfs with a particular resentment to the Tengu.
+
+The DarkElfs are resupplying and rebuilding in Phigije.  Taarala and Phigije continue to trade and have good relations. 
+
+With the Tengu raiders severely depopulated, the Rakasha have begun rebuilding there civilization.  Much of there culture has been lost.  Some Rakasha try to find evidence of there past traditions, while others seek to find a new way.  From the guidance of the Ghobens, they have abolished slavery and allowed any one to move to there cites.  In practice however, progressive views are generally much stronger closer to Sha, with traditional views dominate nearer to Za.
+
+The Orcs have been given the image of empire, and many Orc tribal leaders feel they can unite the tribes to create a new emperium.  Extensive Orcish tribal warfare is being fought toward this effort.
+
+Now that the Tengu no longer decide who rules in human lands, the various nobles in Alyilos are vying for power.  The aims of these rulers are much larger then before, but there methods involve significantly more diplomacy.
+
+After the fall of the empire, the Sauren and Human kings began disputing trade.  The Sauran trade houses supported the Humans and displaced the problematic Sauran leadership.  It is generally held that the Sauran trade houses currently hold more power in Mijdil than the nobility.
+
+The Cyclops are building on there islands, being ignored by the Janin.  While the trolls are continuing to try and find a place in Alyilos and Auklipts.  The Janin no longer have other Goren to raid, and have begone raiding the north coasts, all the way from Jilda to Xamud.
+
+
+---On the Lands of Colligo---
+
+--Amerimnos--
+When the Janin drover the Cyclops into the sea, the Cyclops refugees settled on a verity of marginal islands.  Amerimnos is the most famous of these.  It has favorable winds making it a common port for traders operating along the Auklipts and Alyialos coasts.  The Cyclops living there have never attempted to maintain an ordered government.  Instead, the traders and merchants have establish a safe harbor for all kind of piracy, thuggery, and black market trading.  Over time the haphazard port evolved into a large city.  Many merchant guilds maintain permanent establishments, but none of these have been able to create a rule of law.  Any time one tries, the sailors, ruffians, and other guilds resist the usurpers legalizing efforts.  The Cyclopes collect taxes from the city, but otherwise leave the residents alone.  The Janin often use the Amerimnos port on there way to and from raiding the mainland.  There are occasionally problems between the Janin visitors and Cyclops residents, but usually this only manifests as small scraps between individual parties.
+
+--Auklipts-- 
+The Auklipts is home to the decedents of Dwarf, DarkElf, and Rakasha refuges who fled the Tengu emperial armies.  The area is also houses small communities of Trolls fleeing Janin persecution.  The area is not heavily developed but growing rapidly.  There is little political violence in the region, but loosely organized bandits often hinder development efforts.  The coastal areas are often the target of Janin raids as well. 
+
+-Meleto 
+Meleto is a highly populated hilly region know for its farms, lumber, and mining.  The Meleto old city is located under ground in an Tengu era fortress, but the majority of the city is located in the hills above.  It is the primary resource supply for the manufacturing centers in the Aukts.  Meleto traders travel both by river, road and sea. 
+
+-Kapurna 
+Kapuruna is an old fortress town located underneath the Kapuruna mountains. Traditionally the majority of its citizens live close to the many mountain fastnesses.  More recently, some small mining and farming communities have began to sprout up in the area. 
+
+-Jilda 
+Jilda is a community of DarkElfs who came to join the Dwarfs in the fight against the Tengu empire.  Jilda is know for its academies and libraries.  Peoples from all over Colligo come to the city for magical training.  The products of Dwarfen manufacturing are often brought here for enchanting.  Jilda also has a significant population of Ghoben slaves. 
+
+
+--Xama--
+Xama is a large mostly uninhabited desert.  Small bands of outlaws use the desert as cover when raiding both the Aukts and the Auklipts.  The infrequency of raids, and the inhospitably of the desert, have saved the desert bandits from organized retaliations. 
+
+-Kwa 
+Kwa was founded by Rakasha refuges wanting to join the emperial resistance.  It is used as a trade port for merchants traveling along the western coast, but produces little else. 
+
+ 
+--Aukts-- 
+The Aukts mountains are the ancestral home to the dwarfs.  After the fall of the Tengu empire, the dwarfs have been returning and rebuilding.  These efforts are being augmented by the skills the Dwarfs learned during there exile. Skills such as fortifying, farming, heavy industry, and magic.  The southern Aukts are home to the Ocelotl.  Conflicts between Dwarfs, the remaining Tengu and Ocelotl are common. 
+
+-Saligan 
+The fortress of Saligan is located in the mountains overlooking the sea.  The city however is located next to the coast and the river.  Saligan is the primary port for sea going merchants trading between the Aukts and the rest of the continent. 
+
+-Rapa 
+Rapa is the capital of the Dwarfen people.  Its fortress is deep and majestic, but many Dwarfs are looking to the fertile lands of the Alyialos and Koljer with interests of colonization. 
+
+-Audejants 
+Audejants is the most heavily fortified city in the Aukts.  Patrols from the fortress regularly fight with the many Tengu and Ocelotl in the area.  Most residents of the fortress are ether solders or part of the military entourage. The fort is almost completely dependent on out side sources for supplies.
+
+
+--Alyialos-- 
+The Alyialos coast is largely undeveloped.  The Tengu who ruled here brought with them the idea of diplomacy and empire.  The many remaining Human kingdoms are still small and constantly compete with each other, but a desire for unification seems to drive the conflicts.  The area is rife with petty violence.  There are still significant Tengu populations of differing dispositions.  The Dwarfs seem intent on colonizing the area.  Orcs often set up raiding villages.  And there are many Troll community who fled the Janin.  Some of these have integrated well, some have not. 
+
+-Purro 
+Purro is a small farming community.  The local King maintains an army, funded by a taxation on trade.  The army is not large enough, and the area not developed enough to sufficiently secure trade with Rappa.  The ones who try are often attacked by bandits.  Most take the extra time to trade thru Saligan. 
+
+-Oute 
+Oute is a large kingdom in central Alyialos.  It has insufficient military forces to spread much further, but it frequently influences the region diplomatically by offering aid to the many petty kingdom in the area. 
+
+-Aforizo
+Aforizo is a divided city.  It has three administrative regions, Human, Tengu and Sauran.  Each region has its own government.  Joint decisions are decide by the governors voting.  The difficulty of persecuting people across these political boundaries has made Aforizo a cesspool of thieves, roughs, criminals, and pirates. 
+
+
+--Cuahuitl--
+Cuahuitl is a largely undeveloped jungle between the Xysh and Aukts mountains. The majority of the population is Ocelotl. 
+
+-Papatlaca 
+Papatlaca is located on the southern edge of the Aukts mountains.  Its Ocelotl inhabitants hunt the interior jungles as well as raiding the Dwarfen settlements near Audejants. 
+
+-Aco 
+Aco is a Ocelotl city located on the boarder of the Cuahuitl jungle and the Koljer plains.  The inhabitants of the region hunt both in the jungle and the savanna.  This brings them into conflict with nomadic Orcs.  They often raid trade along the Oruq river as well. 
+
+
+--Koljer--
+Koljer is a large grassy savanna home to many migratory grazers, and there predators.  The area is manly populated by nomadic Orcs 
+
+-Buktir 
+The Buktir region is home to Orcs that often prey on Purro communities and river traders.  The region is also frequently encroached apron by Human and Dwarfen settlements. 
+
+-Qaja 
+The Qaja region sees violence between Orcs and the petty kingdoms of Oute. 
+
+-Oruq 
+Oruq is the primary permanent settlement of the Orcs.  It is used for river trading.  The Orcs sell pelts and skins in exchange for wepons and manufactured goods.  The city also houses a significant Ghoben population. 
+
+-Sogus
+Despite the occasional Orcish boarder disputes, Sogus is a relatively peaceful area.  People rarely cross the Twaxwa desert or the Xammiq hills. 
+
+
+--Xammiq--
+Xammiq is a flat basin situated between two rows of large hills.  It is primary populated by Saurans. 
+
+-Dariik 
+Dariik primary participates in farming, fishing, hunting, and trade.  Most of the Sauran trade houses operate out of Dariik.  It is generally considered to be prosperous and well developed.  The area has resisted urbanization in an effort to preserve its prized hunting grounds.  These wilderness areas allow for moderate levels of banditry.  The coastal community are also targeted by Janin raids. 
+
+-Heric 
+Heric is an industrial town that produces most of Xammiqs manufactured goods. Sauran artisans are generally considered to be inferior, so the local magistrates have encouraged foreign emigration.  In particular, the city has significant numbers of Human, Troll, and Ghoben populations.  Also, the hills near the city hosts a large Tengu population, descended from a thriving emperial colony. 
+
+-Mijdil 
+Mijdil is the capital of the Sauren peninsula.  It is largely an administrative city supported by the rest of the country.  It host large pyramidal temples, government building, trade guild halls, military academies, and schools of the arcane.  The city also performs regular dramatic productions and sports competitions.  Many tourists, both Sauran and foreign, come to the city to enjoy its splendor. 
+
+
+--Xamud--
+Xamund is a largely uninhabited region south of Mijdil 
+
+-Miin 
+Miin is a city used to resupply east-south going sea traders.  There are a few small farms in the area, as well as some local industry, but the area is predominantly uninhabited.  The forests are good for hunting, but the large number of dangerous predators makes the sport more then most can handle. 
+
+
+--Pila--
+Pila is a late emperial Tengu settlement.  The rulers of the community forbade predating its members and even encouraged emigration from across the empire.  The city is an eclectic mix of races.  It is one of the few places that you can see Dwarfs and Tengu living next door in peace.  The Cyclops population is relatively small, due to conflicts with Trolls, and the Janin population is insignificant, but not entirely nonexistent. 
+
+
+--Twaxwa-- 
+Twaxwa is a desert with a large river running thru it.  The river floods seasonally, providing good farming, and allowing its banks to be inhabited by large numbers of Rakasha. 
+
+-Sha
+Sha is a port town at the entrance to the Twaxwa river.  It handles most of the trade with the region.  The city was once know for learning and its libraries.  Altho much of this knowledge was lost during the empire, some of it has been rediscovered.  Sha has a significant population of non Rakasha. 
+
+-Tqwa 
+Tqwa is the cultural center of Twaxwa.  While Sha is designed for the comfort of its traders, Tqwa is meant for the local residents.  It contains most of the politics, schools, and manufacturing for the Rakasha.  Its inhabitants are mostly Rakasha and Ghobens.
+
+-Za 
+Za is located in a mountainous region at the head waters of the Twaxwa river. The river has changed direction many times during its history, leaving a maze of cliffs and canyons.  In ancient times these mountains where home to many monastic and ascetic practitioners.  During the emperium however, the Tengu used the cliffs and mountains to launch areal raids against the monasteries.  The conflict was hard fought, and Za was nearly destroyed.  The Rakasha have not been able to restablish the city, due to the extensive Tengu presence in the area.  A new city, baring the old cities name, has been founded in the desert to the north west of the ruins.  These ruins are believed to have some of the greatest caches of premperial Rakasha learning, but the area is too dangerous to explore thoroughly.  The population of Za is almost excursively Rakasha, and can be leery of outsiders.
+
+--Xysh--
+Xysh is the ancestral home of the Tengu.  The Tengu of the region fully support the hunting of non Tengu, both for meat and profit.
+
+-Kir 
+Kir was a Tengu city that was almost completely depopulated during the fall of the empire.  The old city is now a ruined hunting ground.  Ocelotl and Tengu warriors go to Kir for the purpose of pure combat.  Altho there are a few permanent settlements, there is very little effort in rebuilding or establishing governance.
+
+-Ljang 
+The citizens of Ljang are know for praying on Phigije, Twaxwa and Cuahuitl.  It is home to many pirates and traders.
+
+-Setagai 
+Setagai is know for preforming much of the Tengus farming and manufacturing. In addition, it both trades and raids in Cuahuitl and Koljer.  While interactions with Twaxwa do happen, the desert generally limit these efforts.
+
+
+--Phigije--
+The numbers of DarkElf and Ghobens in Phigije where heavily reduced during the empire.  Now, after the empires fall, there has been an effort to repopulate the region.  Large numbers of Tengu are still living in the area, and confrontations are constant.
+
+-Makter
+Makter is a hot region that boast excellent farming, fishing, manufacturing, and trade.  Its citizens are known for the quality of there light horses and horsemanship.  The Tengu still control much of the outlining area.  The city predominantly consists of both DarkElfs and Ghobens.  It also has significant numbers of Dwarf and Rakasha.  As well as some large Suaran trade settlements.
+
+-Boser
+Boser is a DarkElf and Ghoben settlement that subsists predominantly on farming and fishing.  The Tengu dominate the area to the extent that the city is often considered an unofficial tributary state of Ljang.  The area also has small numbers of Rakasha, Dwarf, and Suarans.
+
+
+--Jala--
+Jala is the ancestral home of the Elfs.  The area is lightly populated by BrightElfs.  Its inhabitants tend to be extremely insular and neither trade with, nor tolerate the presence of other races in Jala.  The Brightelfs have been religiously promoting the life and spirit of the land, resulting in extensive natural abundance and magical wonder.  In early times, the DarkElfs built many shrines and temples dedicated to studying the nature of the universe.  While the BrightElfs chased the DarkElfs off Jala, they did not destroy these temples. Instead they preferred to allow Jala to reclaim them naturally.  Not only do these temple still exist in a decrepit state, but there magic has been enhanced by the BrightElfs life giving rituals.  Jala is relatively peaceful.  BrightElfs are known to engaged in small conflicts with each other and outsiders occasionally try to take advantage of Jalas natural splendor, but violence is rare and local.
+
+-Kola
+Kola permits small amounts of highly controlled foreign trade.
+
+-Ilde
+Ilde is a small fishing community.
+
+-Niginda
+Niginda is home to the grand observatory used by DarkElf astrologers to predict the solar eclipse that angered the BrightElfs.  The area is still used for trade amongst the differing BrightElf tribes.
+
+-Sugot
+Sugot is known for the quality of its leather works.
+
+-Soor
+Soor subsists on hunting and fishing.
+
+
+--Taarala--
+Taarala was colonized by DarkElfs when they fled Jala.  It is heavily populated for its size.  Taarala is know for its learning and academies.  Despite its close boarders, the citizens of Taarala and Jala rarely interact with each other.
+
+-Piini
+Piini supplies Tepta with both food and manufactured goods.  It takes the  abstract learning of Tepta and applies it toward practical material gain.
+
+-Tepta
+Tepta is the seat of learning and culture for the scattered DarkElf people.  It has many famed academies and temples.  Most of the magical knowledge and natural learning of the world originated here.  The academies at Jilda and the libraries of Rapa are both predominantly expounding the philosophies founded in Tepta.
+
+
+
+---On the Nature of Colligo---
+
+150 pt for character creation.
+Normal mana level in most places except Jala, which has high mana.
+Maximum Magery of 3
+Divine magic is done thru Pacts (b113), and is considered Magical [-10%] (b34).
+
+--Elf-- [72]
+-Attr- [52] 
+St -2	[-20] 
+Dx 2	[40] 
+Iq 1	[20] 
+Ht 0	[0] 
+
+Hp -2	[-4] 
+Fp 2	[6] 
+  
+Bs 0	[0] 
+Bm 0	[0] 
+Wl 0	[0] 
+Pr 2	[10] 
+
+Sm 0 
+
+-Adv- [21] 
+Extended Lifespan 1 [2] (B53) 
+Acute Hearing 2 [4] (b35) 
+High Manual Dexterity 2 [10] (b59) 
+Protected Sight [5] (b78) 
+Night Vision 5 [5] (b71)
+
+
+
+--Dwarf--[70] 
+-Attr- [50] 
+St 4	[40] 
+Dx -1	[-20] 
+Iq 0	[0] 
+Ht 4	[40] 
+
+Hp 10	[20] 
+Fp 5	[15] 
+  
+Bs -2	[-40] 
+Bm -2	[-10] 
+Wl 1	[5] 
+Pr 0	[0] 
+
+Sm -1 
+
+-Adv- [20] 
+Extended Lifespan 1 [2] (b53) 
+Cast-Iron Stomach 3 [3] (b80) 
+Resistance to Metabolic Hasards 3 [10] (b81) 
+Damage Reduction from Tough Skin 1 [3]; Skin[-40%] (b46) 
+Lifting St 2 [6] (b65) 
+Poor Sight 2 [-4] (b35)
+
+
+--Rakasha-- [50] 
+-Attr- [0] 
+St 0	[0] 
+Dx 0	[0] 
+Iq 0	[0] 
+Ht 0	[0] 
+
+Hp 0	[0] 
+Fp 0	[0] 
+  
+Bs 0	[0] 
+Bm 0	[0] 
+Wl 0	[0] 
+Pr 0	[0] 
+
+Sm 0 
+
+-Adv- [50] 
+Ambidextrous [5] (b39) 
+Extra Arms 2 [20] (b53) 
+Extra Attack 1 [25] (b53)
+
+-Option-
+Extra Attack 2 [50] (b53) 
+
+-Skin Control-
+A Rakasha can learn to control there skin color.  This provides hormonal benefits as per the color.  In order to change color, use the prerequisite sill for one hour, then succeed on a skill-12 check.  The meditation can be maintained indefinitely, even while unconscious.  Anybody familiar with Rakasha culture, and sees your skin color, will grant a +3 bonus to reaction rolls with that individual, due to the impressiveness of the achievement.
+
+Red +6 St; requires Yoga(Sport) (b222) attr+9
+Violet +3 Dx; requires Sand Painting(Art) (b188) attr+8
+Blue +3 Iq; requires Meditation (b207) attr+8
+Green +6 Ht; requires Dreaming (b179) attr+8
+
+
+
+--Tengu-- [44] 
+-Attr- [0] 
+St -1	[-10] 
+Dx 0	[0] 
+Iq -1	[-20] 
+Ht 0	[0] 
+
+Hp 0	[0] 
+Fp 0	[0] 
+  
+Bs 1	[20] 
+Bm 2	[10] 
+Wl -1	[-5] 
+Pr 1	[5] 
+
+Sm 0 
+
+-Attr- [44]
+Acute Sight 1 [2] (b35) 
+Telescopic Vision 2 [10] (b92) 
+Winged Gliding [10] (b56) 
+Catfall [10] (b41) 
+Sharp Beak [1] (b91) 
+Aerobatics 2 [4] (b174) 
+Acrobatics 2 [4] (b174) 
+Blunt Claws [3] (b42)
+
+
+
+---Sauran--- 
+
+--Olor-- [41] 
+-Attr- [5] 
+St 1	[10] 
+Dx -1	[-20] 
+Iq 1	[20] 
+Ht 1	[10] 
+
+Hp 5	[10] 
+Fp 0	[0] 
+  
+Bs -1	[-20] 
+Bm -1	[-5] 
+Wl 0	[0] 
+Pr 0	[0] 
+
+Sm 0 
+
+-Adv- [36]
+Mesothermic [-5] (b127)
+Damage Reduction from Tough Skin 2 [6]; Skin[-40%] (b46) 
+Blunt Tail [7]; Striker[5], Long[+100%], Parryless[-40%], Rear[-40%], Wild[20%] (b88)
+Low Manual Dexterity 2 [-10] (b59)
+Subsonic Speech [10] (b89) 
+Voice [10] (b97) 
+Penetrating Voice [1] (b101) 
+Charisma 2 [10] (b41)
+Acute Hearing 1 [2] (b35) 
+Protected Hearing [5] (b78) 
+
+
+--Ankyl-- [58] 
+-Attr- [5] 
+St 9	[45] 
+Dx -1	[-20] 
+Iq -1	[-20] 
+Ht 1	[10] 
+
+Hp 10	[20] 
+Fp 0	[0] 
+  
+Bs -1	[-20] 
+Bm -2	[-10] 
+Wl 0	[0] 
+Pr 0	[0] 
+
+Sm 1 
+
+-Adv- [53]
+Mesothermic [-5] (b127)
+Damage Reduction from Tough Skin 2 [6]; Skin[-40%], Layer0 (b46) 
+Damage Reduction from Shell 4 [20]; Hardened 2[+40%], Back[-40%], Layer1 (b46) 
+Armored Blunt Tail [8]; Striker[5], Long[+100%], Parryless[-40%], Rear[-40%], Wild[+20%], Knockback[+20%] (b88)
+Low Manual Dexterity 2 [-10] (b59)
+Subsonic Hearing [5] (b89) 
+
+
+--Dromae-- [20] 
+-Attr- [5] 
+St 2	[20] 
+Dx 1	[20] 
+Iq -2	[-40] 
+Ht 0	[0] 
+
+Hp 0	[0] 
+Fp 0	[0] 
+  
+Bs 0.75	[15] 
+Bm 2	[10] 
+Wl -2	[-10] 
+Pr -2	[-10] 
+
+Sm -1 
+
+-Adv- [15]
+Mesothermic [-5] (b127)
+Damage Reduction from Tough Skin 2 [6]; Skin[-40%] (b46) 
+Blunt Tail [7]; Striker[5], Long[+100%], Parryless[-40%], Rear[-40%], Wild[20%] (b88)
+Low Manual Dexterity 2 [-10] (b59)
+Subsonic Hearing [5] (b89) 
+Talons [8] (b43) 
+Fangs [2] (b91)
+Climbing 1 [2] (b183)
+
+
+-Option-
+Mesothermic [-5] (b127)
+You “stiffen up” in temperatures below 40deg, as per Cold Blooded.  You gain no other penlites or benefits of Cold Blooded.
+
+Striker, Wild [+20%] (b88)
+Saurans swing there tails in wide seeping arcs.  You do not suffer a penalty for Wild Swings with your tail, but your tail can never target Hit Locations.
+
+Extra Tail Attack[15], Rear[-40%] (b53)
+You can make a rear tail attack during the same round you make a front attack. This ability can be used with any number of front attacks, but can not be combined with an other rear attacks.  If you wish to make multiple rear attacks, you must purchase a standard Extra Attack.
+
+
+
+--Ocelotl-- [49] 
+-Attr- [1] 
+St 0	[0] 
+Dx 2	[40] 
+Iq -2	[-40] 
+Ht -2	[-20] 
+
+Hp 0	[0] 
+Fp -3	[-9] 
+  
+Bs 0	[0] 
+Bm 3	[15] 
+Wl 0	[0] 
+Pr 3	[15] 
+
+Sm 0 
+
+-Adv- [50]
+Night Vision 5 [5] (b71) 
+Acute Smell 1 [2] (b35) 
+Catfall [10] (b41) 
+Perfect Balance [15] (b74) 
+Sharp Claws [5] (b41) 
+Sharp Teeth [1] (b91) 
+Stelth 2 [4] (b222) 
+Acrobatics 1 [2] (b174) 
+Jumping 1 [2] (b203) 
+Climbing 2 [4] (b183) 
+
+
+
+
+
+
+---Orc---
+
+--Red--[9] 
+-Attr- [-5] 
+St -2	[-20] 
+Dx 0	[0] 
+Iq -1	[-20] 
+Ht -2	[-20] 
+
+Hp 0	[0] 
+Fp 5	[15] 
+  
+Bs 0	[0] 
+Bm 0	[0] 
+Wl 4	[20] 
+Pr 4	[20] 
+
+Sm 0 
+
+-Adv- [16] 
+Short Lifespan 1 [-10] (b154) 
+Reduced Consumption 2 [4] (b80) 
+Hard to Kill 3 [6] (b58) 
+Hard to Subdue 3 [6] (b59) 
+High Pain Threshold [10] (b59) 
+
+
+--Brown-- [29] 
+-Attr- [30]
+St 1	[10] 
+Dx 0	[0]
+Iq 0	[0]
+Ht 1	[10]
+
+Hp 0	[0]
+Fp 1	[0]
+  
+Bs 0	[0]
+Bm 0	[0]
+Wl 1	[5] 
+Pr 1	[5]
+
+Sm 0 
+
+-Adv- [-1] 
+Short Lifespan 1 [-10] (b154)
+Hard to Kill 1 [2] (b58) 
+Hard to Subdue 1 [2] (b59)
+Rapid Healing [5] (b79)
+
+
+--Green-- [20] 
+-Attr- [45] 
+St 3	[30] 
+Dx 0	[0] 
+Iq 1	[20] 
+Ht 2	[20] 
+
+Hp 0	[0] 
+Fp -5	[15] 
+  
+Bs 0	[0] 
+Bm 0	[0] 
+Wl -4	[-20] 
+Pr -4	[-20] 
+
+Sm 0 
+
+-Adv- [-25] 
+Berserk [-10] (b124) 
+Increased Consumption 1 [-10] (b139) 
+Short Lifespan 1 [-10] (b154) 
+Rapid Healing [5] (b79) 
+
+
+
+
+
+
+---Goren---
+
+--Troll--[64] 
+-Attr- [19] 
+St 6	[54] 
+Dx -1	[-20] 
+Iq -2	[-40] 
+Ht 3	[30] 
+
+Hp 15	[30] 
+Fp 0	[0] 
+  
+Bs -1	[-20] 
+Bm 0	[0] 
+Wl -1	[-5] 
+Pr -2	[-10] 
+
+Sm 1 
+
+-Adv- [45]
+Very Rapid Healing [15] (b79)
+Regrowth [40] (b80)
+Individual Trolls may have additional traits.
+
+
+--Cyclopse-- [73] 
+-Attr- [103] 
+St 12	[108] 
+Dx -1	[-20] 
+Iq -1	[-20] 
+Ht 2	[20] 
+
+Hp 10	[20] 
+Fp 0	[0] 
+  
+Bs -1	[-20] 
+Bm 1	[5] 
+Wl 0	[0] 
+Pr 2	[10] 
+
+Sm 1 
+
+-Adv- [-30]
+One Eye [-15] (b147) 
+Restricted Vision [-30] (b151) 
+Telescopic Vision 4 [20] (b92) 
+Intolerance Other Phenotypes [-5] (b140)
+
+
+--Janin-- [73]
+-Attr- [78] 
+St 2	[18]
+Dx 1	[20] 
+Iq 1	[20] 
+Ht 2	[20] 
+
+Hp 0	[0] 
+Fp 0	[0] 
+  
+Bs 0	[0] 
+Bm 0	[0] 
+Wl 0	[0] 
+Pr 0	[0] 
+
+Sm 1 
+
+-Adv- [-5]
+Intolerance Other Phenotypes [-5] (b140) 
+
+
+
+--Ghobin-- [9] 
+-Attr- [-20] 
+St -4	[-40] 
+Dx 0	[0] 
+Iq 2	[40] 
+Ht -2	[-20] 
+
+Hp 0	[0] 
+Fp 0	[0] 
+  
+Bs 0	[0] 
+Bm 0	[0] 
+Wl -1	[-5] 
+Pr 1	[5] 
+
+Sm -1
+
+-Adv- [29]
+Acute Senses 3 [24] (b35) 
+Sensitive [5] (b51)
